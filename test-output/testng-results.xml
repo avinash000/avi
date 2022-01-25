@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Application Test Automation Test Suite" duration-ms="121374" started-at="2022-01-25T08:32:50Z" finished-at="2022-01-25T08:34:52Z">
+    <groups>
+    </groups>
+    <test name="App Test Cases" duration-ms="121374" started-at="2022-01-25T08:32:50Z" finished-at="2022-01-25T08:34:52Z">
+      <class name="com.crm.qa.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="setUp" is-config="true" duration-ms="30960" started-at="2022-01-25T14:02:50Z" finished-at="2022-01-25T14:03:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePage()[pri:1, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="verifyHomePage" duration-ms="7059" started-at="2022-01-25T14:03:21Z" finished-at="2022-01-25T14:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method status="PASS" signature="clickOnInventory()[pri:2, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="clickOnInventory" duration-ms="5164" started-at="2022-01-25T14:03:28Z" finished-at="2022-01-25T14:03:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnInventory -->
+        <test-method status="PASS" signature="clickOnProduct()[pri:3, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="clickOnProduct" duration-ms="22272" started-at="2022-01-25T14:03:34Z" finished-at="2022-01-25T14:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnProduct -->
+        <test-method status="PASS" signature="clicktoCreateProduct()[pri:4, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="clicktoCreateProduct" duration-ms="7145" started-at="2022-01-25T14:03:56Z" finished-at="2022-01-25T14:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicktoCreateProduct -->
+        <test-method status="PASS" signature="productcreate()[pri:5, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="productcreate" duration-ms="8329" started-at="2022-01-25T14:04:03Z" finished-at="2022-01-25T14:04:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productcreate -->
+        <test-method status="PASS" signature="updateQuantity()[pri:6, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="updateQuantity" duration-ms="12215" started-at="2022-01-25T14:04:11Z" finished-at="2022-01-25T14:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateQuantity -->
+        <test-method status="PASS" signature="enterQuantityDetails()[pri:7, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="enterQuantityDetails" duration-ms="16556" started-at="2022-01-25T14:04:24Z" finished-at="2022-01-25T14:04:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterQuantityDetails -->
+        <test-method status="PASS" signature="goToApplication()[pri:8, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="goToApplication" duration-ms="6159" started-at="2022-01-25T14:04:40Z" finished-at="2022-01-25T14:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToApplication -->
+        <test-method status="PASS" signature="selectManufacture()[pri:9, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="selectManufacture" duration-ms="5295" started-at="2022-01-25T14:04:46Z" finished-at="2022-01-25T14:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectManufacture -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ContactsPageTest@66a3ffec]" name="tearDown" is-config="true" duration-ms="183" started-at="2022-01-25T14:04:52Z" finished-at="2022-01-25T14:04:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ContactsPageTest -->
+    </test> <!-- Free CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
